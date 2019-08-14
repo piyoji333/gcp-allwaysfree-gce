@@ -9,6 +9,6 @@ variable "region_zone" {
 variable "test_ssh_keys" {
   type    = "string"
   default = <<EOF
-testuser:ssh-rsa xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+testuser:ssh-rsaxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
 EOF
 }
